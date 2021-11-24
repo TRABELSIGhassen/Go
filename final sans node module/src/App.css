@@ -1,0 +1,97 @@
+.Header{
+Display :flex ;
+align-items: center;
+justify-content: space-between;
+ padding: 10px;
+ background: black;
+}
+
+.Menu{
+  text-transform: lowercase;
+  text-decoration: underline;
+  Display :flex ;
+align-items: center;
+}
+.Menu a{
+margin-left: 50px;
+color:white;
+font-style:oblique;
+font-weight: normal;
+}
+.H3{
+color:white;
+}
+.i{
+  width: 190px;
+}
+.p1{
+display: flex;
+justify-content: center;
+align-items: center;;
+color:white;
+background-color: black;
+-moz-background-inline-policy: each-box;
+
+}
+.login{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.submit{
+  background-color:blue;
+  color: blue;
+  display: flex;
+  justify-content: end;
+  padding: 100px;
+  margin:100px;
+}
+
+.uot{
+  left:80px;
+  display: flex;
+align-items: center;
+justify-content: center;
+  width: 100px;
+}
+
+.importimg{
+  background-color:grey;
+  margin: 80px;
+  padding: 100px;
+  width: 50px;
+}
+.submit{
+  padding: 100px;
+  margin:50px;
+}
+.ii{
+  width:80px;
+}
+.web{
+  background-color: cornflowerblue;
+  background: cornflowerblue;
+}
+
+.nbague{
+
+}
+
+.CC{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  left: 40%;
+  transition: 5s;
+  padding: 16px 16px;
+  width: 20%;
+  }
+.mone{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+    flex-wrap: wrap;
+  width: 5x;
+margin: 5px;
+padding: 5px;
+  }
